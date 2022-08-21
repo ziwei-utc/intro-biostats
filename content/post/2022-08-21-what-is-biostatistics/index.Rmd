@@ -1,0 +1,57 @@
+---
+title: What is Biostatistics
+author: 'Ziwei Ma'
+subtitle: 'Lecture 1: Introduction'
+institute: "UTC"
+date: "updated: `r Sys.Date()`"
+slug: what-is-biostatistics
+categories: [Lecture]
+tags: []
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+#bibliography: nonparamterics.bib
+# header-includes:
+#   \setbeamercolor{frametitle}{bg=red}
+#   \hypersetup{colorlinks, citecolor=blue, filecolor=red, linkcolor=brown, urlcolor=blue}
+# output: 
+#   beamer_presentation:
+#     theme: "Warsaw"
+#     colortheme: "seahorse"
+#     slide_level: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.width = 3,fig.height = 3, fig.align="center")
+```
+
+
+# What is Statistics
+
+> Statistics is a collection of procedures and principles for gathering data and analyzing
+information in order to help people make decisions when faced with uncertainty
+
+> Utts & Heckard in ‘Statistical Ideas & Methods’
+
+# What is Biostatistics
+
+> -  bi·o·sta·tis·tics
+
+>   noun
+
+> the branch of statistics that deals with data relating to living organisms.
+
+
+
+> - Biostatistics is the application of statistical techniques to scientific research in health-related fields, including medicine, biology, and public health, and the development of new tools to study these areas. 
+
+
+---
+
+# A Motivation Example
+
+
