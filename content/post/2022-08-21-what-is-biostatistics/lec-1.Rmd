@@ -154,6 +154,8 @@ reduce bias
 
 --- 
 
+
+
 ## Common study designs used in clinical research
 
 
